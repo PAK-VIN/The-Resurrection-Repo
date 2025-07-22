@@ -35,7 +35,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      },
+      }
+    },
     {
       "name": "Minecraft Story Mode",
       "bundleIdentifier": "com.telltalegames.MC100",
@@ -60,7 +61,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      },
+      }
+    },
     {
       "name": "The Jackbox Party Pack 3 (iPad Only)",
       "bundleIdentifier": "com.jackboxgames.tjpp3.os",
@@ -94,6 +96,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      },
+      }
+    }
+  ],
   "news": []
 }
