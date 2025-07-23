@@ -6,8 +6,10 @@
   "tintColor": "#ffab00",
   "featuredApps": [
     "com.telltalegames.MC100",
+    "com.telltalegames.MC200.episode1",
     "com.jackboxgames.tjpp3.os",
-    "com.scottgames.fivenights"
+    "com.scottgames.fivenights",
+    "com.scottgames.fnaf2"
   ],
   "headerURL": "https://i.imgur.com/m8PYrgc.png",
   "apps": [
