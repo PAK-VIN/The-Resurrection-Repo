@@ -17,10 +17,10 @@ The Jackbox Party Pack 3 **(iPadOS only)**
 
 Five Nights at Freddy's
 
-Five Nights at Freddy's 2
-
 
 ## Coming soon to TRR
+
+Five Nights at Freddy's 2
 
 Five Nights at Freddy's 3
 
