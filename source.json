@@ -161,7 +161,6 @@
       "tintColor": "#9f4a08",
       "imageURL": "https://i.imgur.com/4QrNtDS.png",
       "notify": true,
-      "url": "https://example.com/new_feature_details",
       "appID": "com.scottgames.fivenights"
     },
     {
@@ -171,8 +170,7 @@
       "date": "2025-07-22T22:46",
       "tintColor": "#c1cf00",
       "imageURL": "https://i.imgur.com/QilLaez.png",
-      "notify": true,
-      "url": "https://example.com/new_feature_details",
+      "notify": true,ls",
       "appID": "com.jackboxgames.tjpp3.os"
     },
     {
@@ -183,7 +181,6 @@
       "tintColor": "#c51a00",
       "imageURL": "https://i.imgur.com/BfHAQJD.jpeg",
       "notify": true,
-      "url": "",
       "appID": "com.telltalegames.MC100"
     },
     {
@@ -194,7 +191,6 @@
       "tintColor": "#ffab00",
       "imageURL": "https://i.imgur.com/vWRb7n8.png",
       "notify": true,
-      "url": "",
       "appID": null
     }
   ]
