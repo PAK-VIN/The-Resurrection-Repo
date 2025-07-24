@@ -17,10 +17,11 @@ The Jackbox Party Pack 3 **(iPadOS only)**
 
 Five Nights at Freddy's
 
-
 ## Coming soon to TRR
 
-Five Nights at Freddy's 2
+Miitomo (Only on supported devices) - Releasing in v2.0-stable
+
+Five Nights at Freddy's 2 - Releasing in v2.0-stable
 
 Five Nights at Freddy's 3
 
@@ -33,13 +34,6 @@ SpongeBob SquarePants: Moves In!
 Draw a Stickman: EPIC 2 Pro
 
 Draw a Stickman: Sketchbook
-
-Exploding Kittens
-
-Miitomo (Only on supported devices)
-
-Pokemon Duel
-
 
 ## Installation
 
