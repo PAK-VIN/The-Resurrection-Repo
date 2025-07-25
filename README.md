@@ -17,11 +17,15 @@ The Jackbox Party Pack 3 **(iPadOS only)**
 
 Five Nights at Freddy's
 
+Five Nights at Freddy's 2
+
+SpongeBob SquarePants: Moves In!
+
+Miitomo **(Supported devices ONLY)**
+
+Draw a Stickman: Sketchbook
+
 ## Coming soon to TRR
-
-Miitomo (Only on supported devices) - Releasing in v2.0-stable
-
-Five Nights at Freddy's 2 - Releasing in v2.0-stable
 
 Five Nights at Freddy's 3
 
@@ -29,11 +33,7 @@ Five Nights at Freddy's 4
 
 Five Nights at Freddy's: Pizzeria Simulator
 
-SpongeBob SquarePants: Moves In!
-
 Draw a Stickman: EPIC 2 Pro
-
-Draw a Stickman: Sketchbook
 
 ## Installation
 
