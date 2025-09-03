@@ -5,13 +5,66 @@
   "iconURL": "https://i.imgur.com/g1Y1KXH.png",
   "tintColor": "#ffab00",
   "featuredApps": [
-    "com.telltalegames.MC100",
-    "com.telltalegames.MC200.episode1",
-    "com.jackboxgames.tjpp3.os",
-    "com.scottgames.fivenights"
+    "com.nintendo.zaaa"
   ],
   "headerURL": "https://i.imgur.com/m8PYrgc.png",
   "apps": [
+    {
+      "name": "Miitomo",
+      "bundleIdentifier": "com.nintendo.zaaa",
+      "developerName": "Nintendo Co. LLC & DeNA",
+      "subtitle": "Chat it up with your custom made Mii character!",
+      "localizedDescription": "PSA: THIS APP ONLY WORKS ON SUPPORTED DEVICES! IT DOES NOT FUNCTION ON ANYTHING THAT RUNS iOS or iPadOS 18.0 OR LATER! DO NOT ASK WHY IT'S CRASHING!\n\nSUPPORTED DEVICES:\niPhone 13 and earlier \niPad mini 4 and earlier\niPad 8 and earlier\n\nRevived with Kaerutomo! All right reserved by the Kaeru Team, all credit for revival goes to them.\nMore information can be found here:\n\nMiitomo is a smart-device app that sparks one-of-a-kind conversations between you and your friends. Its from Nintendo—and free to start!\n\nBasic Features of Miitomo\n■ Make a Mii to Look Like You\n\nMiitomo features the Mii characters that debuted on Nintendos Wii system. Choose from a wide library of facial features to make your Mii look just like you.\n\nAfter creating your Mii and giving it a nickname, you can further customize how it speaks and even how it moves and behaves.\n\n■ Your Mii Is Your Social Go-Between\n\nIn Miitomo, your Mii and your friends Mii characters act as social go-betweens. Your Mii will ask you questions about those little details about yourself youd never think to ask. Your friends Mii characters will do the same.\n\nYour Mii and their Mii characters tell each other these details.\n\n■ Dress Your Mii However You Want\n\nCostumes, streetwear, formal fashion, every-day style—you can find it all in the Miitomo shop.\n\nYou can get clothing items with Miitomo coins, which you earn by playing Miitomo. You can also purchase Miitomo coins.\n\n■ Win Prizes From Miitomo Drop\n\nMiitomo features a minigame in which you drop a Mii into a play field, and then watch it bounce around as it falls toward a variety of platforms. Youll win a prize based on where it lands. Some clothing items are available only in Miitomo Drop.\n\nNote: To play Miitomo Drop, you need Miitomo coins, which you earn by playing Miitomo. You can also use game tickets, which you can get as a daily bonus, among other ways. You can also purchase Miitomo coins.\n\n■ Make Your Mii a Star with Miifotos\n\nIn Miitomo, you can create images called Miifotos. You can let your creativity go wild, putting your Mii and friends Mii characters in images you make from a library of stamps, fonts, and backgrounds. You can also use photos from a smart devices camera as backgrounds for Miifoto creations.\n\n*This app offers in-app purchases. As stated in the Miitomo User Agreement, you must be at least 13 years or older to use Miitomo. We permit our third-party partners to collect data from this app for analytical and marketing purposes. For more information about our ads, please see the “How we use your information” section of the Nintendo Privacy Policy.",
+      "iconURL": "https://i.imgur.com/S3tGOZF.png",
+      "tintColor": "#549be4",
+      "category": "social",
+      "screenshots": {
+        "iphone": [
+          {
+            "imageURL": "https://i.imgur.com/naH0rZD.png",
+            "width": 820,
+            "height": 452
+          },
+          {
+            "imageURL": "https://i.imgur.com/d8Vfj28.png",
+            "width": 998,
+            "height": 572
+          }
+        ],
+        "ipad": [
+          {
+            "imageURL": "https://i.imgur.com/7x8dDv7.png",
+            "width": 820,
+            "height": 452
+          },
+          {
+            "imageURL": "https://i.imgur.com/Wjy2jN2.png",
+            "width": 998,
+            "height": 572
+          }
+        ]
+      },
+      "versions": [
+        {
+          "downloadURL": "https://github.com/PAK-VIN/The-Resurrection-Repo/releases/download/stable2/05.-.Miitomo.ipa",
+          "size": 38500000,
+          "version": "2.4.0",
+          "buildVersion": null,
+          "date": "2018-08-30T04:00:00-04:00",
+          "localizedDescription": "Initial and final release of Miitomo.",
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "The camera is used to create characters.",
+          "NSLocationAlwaysUsageDescription": "Location information is used to register friends.",
+          "NSLocationWhenInUseUsageDescription": "Location information is used to register friends.",
+          "NSPhotoLibraryUsageDescription": "The photo album is accessed when in-app photos are used."
+        }
+      }
+    },
     {
       "name": "Five Nights at Freddy's",
       "bundleIdentifier": "com.scottgames.fivenights",
@@ -90,8 +143,8 @@
       "versions": [
         {
           "version": "1.0.0",
-          "date": "2025-07-23T07:07:00-04:00",
-          "localizedDescription": null,
+          "date": "2025-07-23T15:07:00-04:00",
+          "localizedDescription": "Latest release.",
           "downloadURL": "https://github.com/PAK-VIN/The-Resurrection-Repo/releases/download/stable/04.-.Five.Nights.at.Freddy.s.ipa",
           "size": 41100000,
           "buildVersion": null,
@@ -106,6 +159,7 @@
     {
       "name": "Minecraft Story Mode: S2",
       "bundleIdentifier": "com.telltalegames.MC200.episode1",
+      "marketplaceID": "",
       "developerName": "Telltale Games & Mojang Studios",
       "subtitle": "This story is just beginning.",
       "localizedDescription": "Now that Jesse and the gang have vanquished the Wither Storm, saved the world, and become totally super famous heroes, life has gotten a bit more...complicated. With more responsibilities and less time for adventure, old friendships have started to fade -- at least until Jesse’s hand gets stuck in a creepy gauntlet that belongs to an ancient underwater temple. Together with old pals and new comrades alike, Jesse embarks on a brand new journey filled with tough choices, good times, and at least one temperamental llama.\n\nIncludes Episode 1 of a 5 part series in this brand new season from the award-winning studio, Telltale Games.\n\nEpisodes:\nhttps://drive.google.com/drive/folders/16c4wd4agviNmnhGG7Mjrs_dWRcOBXDoV?usp=sharing",
@@ -242,8 +296,8 @@
       "versions": [
         {
           "version": "1.7.0",
-          "date": "2017-11-17T04:00:00-04:00",
-          "localizedDescription": null,
+          "date": "2017-11-17T08:00:00-05:00",
+          "localizedDescription": "Last release available from Telltale Games.",
           "downloadURL": "https://github.com/PAK-VIN/The-Resurrection-Repo/releases/download/stable/01.-.Minecraft.Story.Mode.ipa",
           "size": 999900000,
           "buildVersion": "1.7.0",
@@ -389,6 +443,28 @@
   ],
   "news": [
     {
+      "title": "v2.0-stable - Miitomo is back!",
+      "identifier": "news_r2isr05326",
+      "caption": "Chat it up with your favorite Mii characters, take some Miifotos, and more!",
+      "date": "2025-08-28T18:11",
+      "tintColor": "#0079ff",
+      "imageURL": "https://i.imgur.com/BMApC1j.png",
+      "notify": true,
+      "url": "https://example.com/new_feature_details",
+      "appID": "com.nintendo.zaaa"
+    },
+    {
+      "title": "Welcome to v2.0-stable!",
+      "identifier": "news_uv1vlhi5eq",
+      "caption": "Say hello to v2.0-stable! We fixed a couple of bugs here and there, enjoy!",
+      "date": "2025-08-28T22:59",
+      "tintColor": "#ffab00",
+      "imageURL": "https://i.imgur.com/g1Y1KXH.png",
+      "notify": true,
+      "url": "https://example.com/new_feature_details",
+      "appID": null
+    },
+    {
       "title": "v1.0-stable - Are you ready for Freddy?",
       "identifier": "news_mtb270g5ya",
       "caption": "Five Nights at Freddy's returns from the App Store!",
@@ -396,6 +472,7 @@
       "tintColor": "#9f4a08",
       "imageURL": "https://i.imgur.com/4QrNtDS.png",
       "notify": true,
+      "url": "https://example.com/new_feature_details",
       "appID": "com.scottgames.fivenights"
     },
     {
@@ -406,6 +483,7 @@
       "tintColor": "#c1cf00",
       "imageURL": "https://i.imgur.com/QilLaez.png",
       "notify": true,
+      "url": "https://example.com/new_feature_details",
       "appID": "com.jackboxgames.tjpp3.os"
     },
     {
@@ -416,6 +494,7 @@
       "tintColor": "#c51a00",
       "imageURL": "https://i.imgur.com/BfHAQJD.jpeg",
       "notify": true,
+      "url": "https://example.com/new_feature_details",
       "appID": "com.telltalegames.MC100"
     },
     {
@@ -424,8 +503,9 @@
       "caption": "Thank you for adding the source! Now, go have some fun with the classics from the App Store!",
       "date": "2025-07-22T00:00",
       "tintColor": "#ffab00",
-      "imageURL": "https://i.imgur.com/vWRb7n8.png",
+      "imageURL": "https://i.imgur.com/g1Y1KXH.png",
       "notify": true,
+      "url": "https://example.com/new_feature_details",
       "appID": null
     }
   ]
