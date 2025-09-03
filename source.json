@@ -147,7 +147,6 @@
           "localizedDescription": "Latest release.",
           "downloadURL": "https://github.com/PAK-VIN/The-Resurrection-Repo/releases/download/stable/04.-.Five.Nights.at.Freddy.s.ipa",
           "size": 41100000,
-          "buildVersion": null,
           "minOSVersion": null
         }
       ],
@@ -229,7 +228,6 @@
           "localizedDescription": null,
           "downloadURL": "https://github.com/PAK-VIN/The-Resurrection-Repo/releases/download/stable/02.-.Minecraft.Story.Mode.S2.ipa",
           "size": 1250200000,
-          "buildVersion": "1.6.0",
           "minOSVersion": "9.3.6"
         }
       ],
@@ -300,7 +298,6 @@
           "localizedDescription": "Last release available from Telltale Games.",
           "downloadURL": "https://github.com/PAK-VIN/The-Resurrection-Repo/releases/download/stable/01.-.Minecraft.Story.Mode.ipa",
           "size": 999900000,
-          "buildVersion": "1.7.0",
           "minOSVersion": "7.1"
         }
       ],
@@ -431,7 +428,6 @@
           "localizedDescription": null,
           "downloadURL": "https://github.com/PAK-VIN/The-Resurrection-Repo/releases/download/stable/03.-.The.Jackbox.Party.Pack.3.ipa",
           "size": 750000000,
-          "buildVersion": "2",
           "minOSVersion": "13.0"
         }
       ],
