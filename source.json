@@ -56,7 +56,11 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [],
+        "entitlements": [
+"com.apple.security.application-groups",
+"keychain-access-groups",
+"aps-environment"
+        ],
         "privacy": {
           "NSCameraUsageDescription": "The camera is used to create characters.",
           "NSLocationAlwaysUsageDescription": "Location information is used to register friends.",
